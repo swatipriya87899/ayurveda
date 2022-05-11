@@ -1,0 +1,22 @@
+.hospital_heading{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    color: #146356;
+    }
+    
+    .near_you{
+        font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+    }
+    
+    .near_you_line{
+        margin-top: 7px;
+        margin-left: 5px;
+        width: 200px;
+    height: 5px;
+    background: #146356;
+    }

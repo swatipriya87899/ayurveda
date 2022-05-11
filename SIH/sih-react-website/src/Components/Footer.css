@@ -1,0 +1,24 @@
+.footer{
+    background: #064635;
+}
+
+.icon_background{
+    background-color: white;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.follow{
+    display: flex;
+    justify-content: center;
+}
+
+.follow_us{
+    font-style: normal;
+font-size: 24px;
+line-height: 32px;
+color: white;
+margin-top: 20px;
+}

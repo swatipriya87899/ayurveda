@@ -1,0 +1,12 @@
+.location{
+    display: flex;
+}
+
+.exact_place{
+    font-size: 10px;
+    margin-top: -3px;
+}
+
+.city{
+    margin-left: 3px;
+}

@@ -1,0 +1,37 @@
+.appbar {
+  margin-top: -7px;
+}
+
+.navbar {
+  background: #ffffff;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  color: #146356;
+}
+
+.avatar{
+    display: flex;
+    align-items: center;
+}
+
+.user_name {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #146356;
+  margin-left: 10px;
+}
+
+.navbar_content{
+  font-weight: bold;
+font-size: 16px;
+line-height: 30px;
+color: #146356;
+}
